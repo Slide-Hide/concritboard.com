@@ -1,0 +1,69 @@
+body{ font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#FFFFFF; background-image:url(images/bg.jpg); background-repeat:repeat-x; margin:0px; width:100% }
+	
+.maintable{ padding:0 8px 8px 8px; background-color:#FFFFFF;}
+.mainBtmtable{ padding:8px; background-color:#58543F;}
+
+ul { padding:20px; margin:0px;}
+.list1 li { list-style-image:url(images/bullet.jpg);}
+.list2 li { list-style-image:url(images/bullet1.jpg);}
+.list3 li { list-style-image:url(images/bullet2.jpg);}
+
+.title_hp { background-color:#FFFFFF; color:#666666; font-size:15px;}
+.ctn_hp{background-image:url(images/title_shadow.jpg); background-repeat:no-repeat; color:#CCCCCC; padding:10px 0 0 0; height:100px;}
+.ctn_subpage{padding:40px 0 0 0; color:#EEEEEE; text-align:left;}
+.more{ color:#FFFFFF; text-decoration:underline; text-align:right;}
+.more a:link, .more a:active, .more a:visited{ color:#FFFFFF; text-decoration:underline; text-align:right;}
+.more a:hover{ color:#CCCC00; text-decoration:underline; text-align:right;}
+.mainfooter{ background:url(images/main_btm.jpg); font-size:11px; color:#666666; text-align:right; padding:10px 0 3px 0}
+.navi { font-size:11px; color:#333333;}
+.navi a:link, .navi a:active, .navi a:visited{ font-size:11px; color:#E63734; font-weight:bold; text-decoration:none}
+.navi a:hover{ font-size:11px; color:#333333; text-decoration:underline}
+.col1{background-color:#68634A;}
+
+.link a:link, .link a:active, .link a:visited{ font-size:12px; text-decoration:underline; color:#CCCC00;}
+.link a:hover{ font-size:12px; color:#999900;}
+
+.content a:link, .content a:active, .content a:visited{ font-size:12px; text-decoration:none; color:#666666}
+.content a:hover{ font-size:12px; color:#000099;}
+
+.contact a:link, .contact a:active, .contact a:visited{ font-size:12px; text-decoration:none; color:#33CCFF}
+.contact a:hover{ font-size:12px; color:#FFFFFF;}
+
+.appimg1 {
+	padding:5px;
+	/*border:solid 1px #FFFFFF;*/
+	border:none;
+	background-color:#333333;
+	margin-bottom:2px;
+	margin-right:0px;
+	}
+.appimg {
+	padding:5px;
+	/*border:solid 1px #FFFFFF;*/
+	border:none;
+	background-color:#333333;
+	margin-bottom:2px;
+	margin-right:2px;
+	}
+	
+.tdbrown {
+	background-color:#666248;
+	padding:10px;
+	}
+	
+#apDiv1 {
+	position:absolute;
+	left:-210px;
+	top:308px;
+	width:100%;
+	height:33px;
+	z-index:1;
+}
+#apDiv2 {
+	position:absolute;
+	left:-215px;
+	top:314px;
+	width:100%;
+	height:33px;
+	z-index:1;
+}
